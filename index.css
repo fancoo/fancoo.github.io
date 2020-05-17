@@ -10,6 +10,12 @@
     color: rgb(75, 81, 93);
 }
 
+.about {
+    text-align: right;
+    margin-top: 10px;
+    margin-right: 40px;
+}
+
 body {
     background-color: rgb(253, 253, 254);
     margin: 60px 0px;
